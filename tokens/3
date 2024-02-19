@@ -1,12 +1,12 @@
 {
     "id": 3,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
+    "image": "https://keen59.github.io/sample-project-metadata/tokens/token3.webp",
     "token_id": "3",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
+    "name": "Test X NFT",
+    "description": "This NFT is my third Keen Immutable X NFT",
     "external_url": null,
     "attributes": [
       {
